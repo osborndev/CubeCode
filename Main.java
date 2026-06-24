@@ -13,6 +13,6 @@ public class Main
         return """
                 CubeCode : Minecraft Command Compiler
                 Version  : 1.0
-                Authors  : Gabriel Osborn, Henry Perry""";
+                Authors  : Osborn, Henry Perry""";
     }
 }
